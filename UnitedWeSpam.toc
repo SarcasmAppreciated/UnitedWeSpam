@@ -1,0 +1,9 @@
+## Interface: 60100
+## Title: United We Spam
+## Version: 1.0.0
+## Notes: Guild Recruiting Coordinator
+## Author: Kynetix @ Kil'Jaden-US Alliance
+## SavedVariables: UWSOn, UWSTimer
+
+UnitedWeSpam.lua
+UnitedWeSpam.xml
